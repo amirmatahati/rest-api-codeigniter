@@ -2,7 +2,10 @@
 CodeIgniter HMVC rest api structure with JWT integration
 
 # Dependencies
-PHP 5.x above
+<ul>
+  <li>PHP 5.x above</li>
+  <li>REST_Controller</li>
+</ul>
 Composer [https://getcomposer.org/]
 
 #Installation instructions
